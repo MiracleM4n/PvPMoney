@@ -1,0 +1,3 @@
+name: PvPMoney
+main: com.miraclem4n.pvpmoney.PvPMoney
+version: ${m.version}-${build.number}-${p.version}
