@@ -12,7 +12,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <build.number>Unknown</build.number>
-        <m.version>1.2.4</m.version>
+        <m.version>1.2.5</m.version>
         <p.version>R0.1</p.version>
     </properties>
 
@@ -92,14 +92,14 @@
         <dependency>
             <groupId>org.bukkit</groupId>
             <artifactId>bukkit</artifactId>
-            <version>1.2.4-R1.1-SNAPSHOT</version>
+            <version>1.2.5-R0.2-SNAPSHOT</version>
             <type>jar</type>
             <scope>compile</scope>
         </dependency>
         <dependency>
             <groupId>net.milkbowl.vault</groupId>
             <artifactId>Vault</artifactId>
-            <version>1.2.10-SNAPSHOT</version>
+            <version>1.2.12-SNAPSHOT</version>
             <type>jar</type>
             <scope>compile</scope>
         </dependency>
